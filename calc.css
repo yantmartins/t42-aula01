@@ -1,0 +1,15 @@
+body {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    text-align: center;
+}
+div{
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+#caixa {
+    background-color: purple;
+    justify-content: center;
+    text-align: center;
+    width: 50%;
+    border-radius: 10px;
+}
